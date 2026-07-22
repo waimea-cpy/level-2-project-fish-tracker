@@ -7,7 +7,16 @@ Replace this text with a clearly stated problem or need that exists that your pr
 
 ## End-User Requirements
 
-Replace this text with a description of your typical end-users and their specific needs / expectations / requirements.
+A typical end-user for this system is my uncle - He really likes spotting fish!
+
+I had a conversation with him on 10/07/26 about what he would like from this system:
+
+> "I think the system needs to be really easy to use. I think I'd only use it if I could pull my phone out and record a fish in just a few seconds. It also needs to look really good - I'm really fussy!"
+
+Based on his answers, my priorities are:
+- Simplicity
+- Ease-of-use
+- Good-looking UI
 
 
 ## Proposed Solution
